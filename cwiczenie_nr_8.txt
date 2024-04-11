@@ -1,0 +1,13 @@
+Odbiorcy: @All
+Temat: Spotkanie z zespołem
+
+Szanowni Państwo,
+
+Chcielibyśmy zaprosić Państwa na spotkanie dotyczące obecnego projektu. Podczas spotkania
+omówimy nasz performance, który odbiega od założeń. Spotkanie jest zmotywowane reakcją klienta na nasz obecny przebieg projektu, są obawy że nie zdążymy z deadline'em. Na spotkaniu będą prowadzone do Was pytania aby znaleść zródło problemu oraz sposoby na rozwiązanie go.
+
+Spotkanie odbędzie się w sali konferencyjnej A, dnia 12.04.2024 (piątek) o godzinie 12:00.
+W razie pytań prosimy o kontakt mailowy.
+
+Z poważaniem, 
+Zarząd Zespołu
