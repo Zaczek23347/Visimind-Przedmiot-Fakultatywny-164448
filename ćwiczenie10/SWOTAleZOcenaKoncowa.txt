@@ -1,0 +1,19 @@
+S:
+   -Dzięki sprzedaży i utrzymaniu oprogramowania firma ma stały dochód +2
+   -Wszechstronność kadry (Full Stack) +1
+   -Własny sprzęt i oprogramowanie +1
+W:
+   -Mała ilość pracowników -1
+   -Jeden pracownik na kilka stanowisk (kadrowa-księgowa) -2
+O:
+   -Możliwość reklamowania się w lokalizacji siedziby firmy (Morąg) +1
+   -Możliwość organizowania spotkania z klientem w biurze +2
+T:
+   -Ryzyko zniszczenia biura 0
+   -Słaba lokalizacja biura -1
+   -Powstanie konkurencji -1
+
+S + w = 1
+O + T = 1
+
+Strategia Agresywna

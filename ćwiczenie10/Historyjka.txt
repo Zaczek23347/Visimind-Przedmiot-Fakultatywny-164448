@@ -1,0 +1,11 @@
+Jako użytkownik chcę napisać recenzję aby ostrzec lub zachęcić innych użytkowników.
+Jako administrator chcę usuwać nieodpowiednią recenzję aby recenzje nie były pełne wulgaryzmów oraz pomówień.
+
+Jako użyktownik muszę się zalogować aby dodać recenzję.
+Jako użytkownik kilkam na daną restaurację aby zobaczyć jej oceny.
+
+Jako użytkownik wpisuję kluczową frazę w wyszukiwarce w celu znalezienia restauracji.
+Jako administrator chcę zaktualizować dane restauracji w celu uaktualnienia informacji na stronie.
+
+Jako użytkownik chcę wyświetlić listę wszystkich restauracji w okolicy aby mieć do nich szybki i łatwy dostęp.
+Jako użytkownik chcę otrzymać wszystkie dane na temat restauracji aby moć zamówić danie do domu.
